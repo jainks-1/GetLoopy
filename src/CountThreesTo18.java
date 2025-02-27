@@ -14,5 +14,3 @@ public class CountThreesTo18 {
         System.exit(0);
     }
 }
-
-

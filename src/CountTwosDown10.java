@@ -14,4 +14,3 @@ public class CountTwosDown10 {
         System.exit(0);
     }
 }
-

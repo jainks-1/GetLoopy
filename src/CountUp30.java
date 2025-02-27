@@ -14,4 +14,3 @@ public class CountUp30 {
         System.exit(0);
     }
 }
-

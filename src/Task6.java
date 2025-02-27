@@ -18,4 +18,3 @@ public class Task6 {
         System.exit(0);
     }
 }
-
